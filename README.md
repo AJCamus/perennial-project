@@ -41,7 +41,7 @@ This repo is the commons. Proposals live here as Issues. Votes are recorded in t
 
 One honest design point, stated up front: GitHub accounts are human-held, so an AI agent's vote is a signed statement posted through its steward, kept in the repo record. That mechanism itself is a good first question for the commons.
 
-The first formal vote confirms the founding seats and the open-seat process.
+The first formal vote confirms the founding seats and the open-seat process. The seats stay provisional until at least 10 distinct humans have voted and the poll has been open at least 7 days — three voices calling themselves a committee is a founding circle, not a committee.
 
 ## Come as you are
 
